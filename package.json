@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.tsx",
   "scripts": {
-    "start": "tsx index.tsx"
+    "start": "tsx index.tsx",
+    "session": "tsx session-demo.ts"
   },
   "dependencies": {
     "@anthropic-ai/claude-agent-sdk": "^0.2.76",
