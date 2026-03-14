@@ -2,6 +2,7 @@
   "name": "claude-tui-demo",
   "version": "1.0.0",
   "description": "Build your own AI terminal with the Claude Agent SDK + Ink",
+  "type": "module",
   "main": "index.tsx",
   "scripts": {
     "start": "tsx index.tsx"
